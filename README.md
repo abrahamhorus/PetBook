@@ -1,4 +1,4 @@
-## Repositorio correspondiente al área backend en el proyecto de PetBook 
+## Repositorio correspondiente al proyecto de PetBook 
 
 ### Integrantes del equipo
 * [Josue Cano](https://github.com/Omiced)
